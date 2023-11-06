@@ -4,7 +4,7 @@ In this project i developed a simple landing page using basic grid. This project
 
 ## Instructions
 
-Visit the link on the page: 
+Visit the link on the page: https://lucasbalbueno.github.io/LandingPage-with-grid/
 
 __Observations:__ The bottons and links are clicklable, but do not redirect to other page.
 
@@ -16,6 +16,6 @@ Nesse projeto desenvolvi uma landing page simples utilizando o básico do grid. 
 
 ## Instruções
 
-Acesse o link para visualizar a página: 
+Acesse o link para visualizar a página: https://lucasbalbueno.github.io/LandingPage-with-grid/
 
 __OBSERVAÇÕES:__ Os botões e links estão clicáveis mas não redirecionam para nenhuma outra página.
