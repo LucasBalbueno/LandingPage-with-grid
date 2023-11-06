@@ -1,4 +1,4 @@
-# LandingPage-with-grid
+# LandingPage-with-grid 🇺🇸
 
 In this project i developed a simple landing page using basic grid. This project was built based on Alura's course: "Praticando HTML e CSS", for study and practice purposes. The project was developed for Desktop screens, so it isn't responsive for smartphones, tablets and ultrawide screens.
 
@@ -10,7 +10,7 @@ __Observations:__ The bottons and links are clicklable, but do not redirect to o
 
 <br/>
 
-# LandingPage-com-grid
+# LandingPage-com-grid 🇧🇷
 
 Nesse projeto desenvolvi uma landing page simples utilizando o básico do grid. Esse projeto foi construido com base no curso "Praticando HTML e CSS" da Alura para fins de estudos e práticas. O projeto foi desenvolvido para telas Desktop, logo, não está responsivo para celulares, tablets e telas ultrawide.
 
